@@ -1,0 +1,139 @@
+1
+00:00:01,000 --> 00:00:03,504
+Au sud-ouest de Montréal, à Beauharnois,
+
+2
+00:00:03,544 --> 00:00:06,238
+IKEA a ouvert en 2023 son
+premier centre de
+
+3
+00:00:06,278 --> 00:00:09,355
+distribution au Canada depuis
+plus de trente ans.
+
+4
+00:00:10,400 --> 00:00:12,051
+Le site réunit deux rôles :
+
+5
+00:00:12,091 --> 00:00:15,997
+approvisionner les magasins et
+préparer les commandes en ligne.
+
+6
+00:00:16,037 --> 00:00:21,008
+Plus d'un million de pieds carrés, et de la
+place pour jusqu'à 244 000 palettes.
+
+7
+00:00:22,500 --> 00:00:26,573
+D'ici, les marchandises partent vers les
+magasins, de Winnipeg à Halifax,
+
+8
+00:00:26,613 --> 00:00:30,235
+vers d'autres centres du réseau, et
+directement chez les clients.
+
+9
+00:00:33,800 --> 00:00:35,155
+Tout commence aux quais.
+
+10
+00:00:35,195 --> 00:00:37,887
+Les camions arrivent, les
+palettes sont reçues,
+
+11
+00:00:37,927 --> 00:00:40,794
+identifiées, puis prises en
+charge par le système.
+
+12
+00:00:45,800 --> 00:00:46,862
+Au cœur du centre :
+
+13
+00:00:46,902 --> 00:00:49,934
+un système de stockage et de
+récupération automatisé.
+
+14
+00:00:49,974 --> 00:00:53,123
+Il reçoit, entrepose et ressort
+les palettes complètes,
+
+15
+00:00:53,163 --> 00:00:55,790
+sans intervention manuelle
+sur les rayonnages.
+
+16
+00:01:00,100 --> 00:01:01,771
+Une commande arrive en ligne.
+
+17
+00:01:01,811 --> 00:01:03,836
+Le système localise chaque article.
+
+18
+00:01:03,876 --> 00:01:08,378
+Pour les petites quantités, des bacs
+viennent jusqu'au poste de préparation :
+
+19
+00:01:08,418 --> 00:01:11,505
+c'est la marchandise qui se
+déplace vers la personne.
+
+20
+00:01:14,400 --> 00:01:17,299
+Les articles sont prélevés et
+triés par commande.
+
+21
+00:01:17,339 --> 00:01:20,178
+Une machine prépare une boîte
+à la bonne taille.
+
+22
+00:01:20,218 --> 00:01:22,637
+Puis tout rejoint les quais d'expédition.
+
+23
+00:01:27,100 --> 00:01:31,424
+Derrière l'automatisation, plus de 380
+collaborateurs à l'ouverture.
+
+24
+00:01:31,464 --> 00:01:33,413
+La machine déplace les charges;
+
+25
+00:01:33,453 --> 00:01:36,557
+les équipes prélèvent,
+contrôlent et coordonnent.
+
+26
+00:01:38,500 --> 00:01:40,606
+Le bâtiment est certifié LEED Argent.
+
+27
+00:01:40,646 --> 00:01:42,927
+À l'ouverture, IKEA y annonçait aussi 20
+
+28
+00:01:42,967 --> 00:01:45,596
+bornes de recharge pour
+véhicules électriques.
+
+29
+00:01:48,500 --> 00:01:52,126
+Des quais de Beauharnois jusqu'au
+magasin ou à la porte du client :
+
+30
+00:01:52,166 --> 00:01:56,559
+un même réseau, pensé pour rapprocher chaque
+produit de la personne qui l'attend.

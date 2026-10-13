@@ -1,0 +1,122 @@
+{
+ "lang": "fr-CA",
+ "scenes": [
+  {
+   "id": "S01",
+   "start": 0,
+   "end": 10,
+   "vo_at": 1.0,
+   "facts": [
+    "F01",
+    "F02",
+    "F03"
+   ],
+   "vo": "Au sud-ouest de Montréal, à Beauharnois, IKEA a ouvert en 2023 son premier centre de distribution au Canada depuis plus de trente ans."
+  },
+  {
+   "id": "S02",
+   "start": 10,
+   "end": 22,
+   "vo_at": 0.4,
+   "facts": [
+    "F04",
+    "F05",
+    "F06",
+    "F07"
+   ],
+   "vo": "Le site réunit deux rôles : approvisionner les magasins et préparer les commandes en ligne. Plus d'un million de pieds carrés, et de la place pour jusqu'à deux cent quarante-quatre mille palettes."
+  },
+  {
+   "id": "S03",
+   "start": 22,
+   "end": 33,
+   "vo_at": 0.5,
+   "facts": [
+    "F15",
+    "F16",
+    "F17"
+   ],
+   "vo": "D'ici, les marchandises partent vers les magasins, de Winnipeg à Halifax, vers d'autres centres du réseau, et directement chez les clients."
+  },
+  {
+   "id": "S04",
+   "start": 33,
+   "end": 45,
+   "vo_at": 0.8,
+   "facts": [
+    "F14"
+   ],
+   "vo": "Tout commence aux quais. Les camions arrivent, les palettes sont reçues, identifiées, puis prises en charge par le système."
+  },
+  {
+   "id": "S05",
+   "start": 45,
+   "end": 59.5,
+   "vo_at": 0.8,
+   "facts": [
+    "F08",
+    "F10"
+   ],
+   "vo": "Au cœur du centre : un système de stockage et de récupération automatisé. Il reçoit, entrepose et ressort les palettes complètes, sans intervention manuelle sur les rayonnages."
+  },
+  {
+   "id": "S06",
+   "start": 59.5,
+   "end": 74,
+   "vo_at": 0.6,
+   "facts": [
+    "F09",
+    "F11",
+    "F17"
+   ],
+   "vo": "Une commande arrive en ligne. Le système localise chaque article. Pour les petites quantités, des bacs viennent jusqu'au poste de préparation : c'est la marchandise qui se déplace vers la personne."
+  },
+  {
+   "id": "S07",
+   "start": 74,
+   "end": 86.5,
+   "vo_at": 0.4,
+   "facts": [
+    "F12",
+    "F13",
+    "F14"
+   ],
+   "vo": "Les articles sont prélevés et triés par commande. Une machine prépare une boîte à la bonne taille. Puis tout rejoint les quais d'expédition."
+  },
+  {
+   "id": "S08",
+   "start": 86.5,
+   "end": 98,
+   "vo_at": 0.6,
+   "facts": [
+    "F07",
+    "F12",
+    "F20"
+   ],
+   "vo": "Derrière l'automatisation, plus de trois cent quatre-vingts collaborateurs à l'ouverture. La machine déplace les charges; les équipes prélèvent, contrôlent et coordonnent."
+  },
+  {
+   "id": "S09",
+   "start": 98,
+   "end": 108,
+   "vo_at": 0.5,
+   "facts": [
+    "F18",
+    "F19"
+   ],
+   "vo": "Le bâtiment est certifié LEED Argent. À l'ouverture, IKEA y annonçait aussi vingt bornes de recharge pour véhicules électriques."
+  },
+  {
+   "id": "S10",
+   "start": 108,
+   "end": 120,
+   "vo_at": 0.5,
+   "facts": [
+    "F01",
+    "F15",
+    "F17"
+   ],
+   "vo": "Des quais de Beauharnois jusqu'au magasin ou à la porte du client : un même réseau, pensé pour rapprocher chaque produit de la personne qui l'attend."
+  }
+ ]
+}

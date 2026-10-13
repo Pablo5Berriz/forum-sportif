@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Inter,40,&H00FFFFFF,&H00FFFFFF,&H7014181D,&H7014181D,1,0,0,0,100,100,0,0,4,14,0,2,200,200,118,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:03.50,Default,,0,0,0,,Au sud-ouest de Montréal, à Beauharnois,
+Dialogue: 0,0:00:03.54,0:00:06.24,Default,,0,0,0,,IKEA a ouvert en 2023 son\Npremier centre de
+Dialogue: 0,0:00:06.28,0:00:09.36,Default,,0,0,0,,distribution au Canada depuis\Nplus de trente ans.
+Dialogue: 0,0:00:10.40,0:00:12.05,Default,,0,0,0,,Le site réunit deux rôles :
+Dialogue: 0,0:00:12.09,0:00:16.00,Default,,0,0,0,,approvisionner les magasins et\Npréparer les commandes en ligne.
+Dialogue: 0,0:00:16.04,0:00:21.01,Default,,0,0,0,,Plus d'un million de pieds carrés, et de la\Nplace pour jusqu'à 244 000 palettes.
+Dialogue: 0,0:00:22.50,0:00:26.57,Default,,0,0,0,,D'ici, les marchandises partent vers les\Nmagasins, de Winnipeg à Halifax,
+Dialogue: 0,0:00:26.61,0:00:30.23,Default,,0,0,0,,vers d'autres centres du réseau, et\Ndirectement chez les clients.
+Dialogue: 0,0:00:33.80,0:00:35.16,Default,,0,0,0,,Tout commence aux quais.
+Dialogue: 0,0:00:35.20,0:00:37.89,Default,,0,0,0,,Les camions arrivent, les\Npalettes sont reçues,
+Dialogue: 0,0:00:37.93,0:00:40.79,Default,,0,0,0,,identifiées, puis prises en\Ncharge par le système.
+Dialogue: 0,0:00:45.80,0:00:46.86,Default,,0,0,0,,Au cœur du centre :
+Dialogue: 0,0:00:46.90,0:00:49.93,Default,,0,0,0,,un système de stockage et de\Nrécupération automatisé.
+Dialogue: 0,0:00:49.97,0:00:53.12,Default,,0,0,0,,Il reçoit, entrepose et ressort\Nles palettes complètes,
+Dialogue: 0,0:00:53.16,0:00:55.79,Default,,0,0,0,,sans intervention manuelle\Nsur les rayonnages.
+Dialogue: 0,0:01:00.10,0:01:01.77,Default,,0,0,0,,Une commande arrive en ligne.
+Dialogue: 0,0:01:01.81,0:01:03.84,Default,,0,0,0,,Le système localise chaque article.
+Dialogue: 0,0:01:03.88,0:01:08.38,Default,,0,0,0,,Pour les petites quantités, des bacs\Nviennent jusqu'au poste de préparation :
+Dialogue: 0,0:01:08.42,0:01:11.50,Default,,0,0,0,,c'est la marchandise qui se\Ndéplace vers la personne.
+Dialogue: 0,0:01:14.40,0:01:17.30,Default,,0,0,0,,Les articles sont prélevés et\Ntriés par commande.
+Dialogue: 0,0:01:17.34,0:01:20.18,Default,,0,0,0,,Une machine prépare une boîte\Nà la bonne taille.
+Dialogue: 0,0:01:20.22,0:01:22.64,Default,,0,0,0,,Puis tout rejoint les quais d'expédition.
+Dialogue: 0,0:01:27.10,0:01:31.42,Default,,0,0,0,,Derrière l'automatisation, plus de 380\Ncollaborateurs à l'ouverture.
+Dialogue: 0,0:01:31.46,0:01:33.41,Default,,0,0,0,,La machine déplace les charges;
+Dialogue: 0,0:01:33.45,0:01:36.56,Default,,0,0,0,,les équipes prélèvent,\Ncontrôlent et coordonnent.
+Dialogue: 0,0:01:38.50,0:01:40.61,Default,,0,0,0,,Le bâtiment est certifié LEED Argent.
+Dialogue: 0,0:01:40.65,0:01:42.93,Default,,0,0,0,,À l'ouverture, IKEA y annonçait aussi 20
+Dialogue: 0,0:01:42.97,0:01:45.60,Default,,0,0,0,,bornes de recharge pour\Nvéhicules électriques.
+Dialogue: 0,0:01:48.50,0:01:52.13,Default,,0,0,0,,Des quais de Beauharnois jusqu'au\Nmagasin ou à la porte du client :
+Dialogue: 0,0:01:52.17,0:01:56.56,Default,,0,0,0,,un même réseau, pensé pour rapprocher chaque\Nproduit de la personne qui l'attend.

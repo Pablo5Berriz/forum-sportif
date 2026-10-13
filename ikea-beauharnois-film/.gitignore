@@ -1,0 +1,11 @@
+src/node_modules/
+data/*.zip
+data/ne_*/
+render/seg/
+render/st*/
+render/stills/
+render/video_only.mp4
+audio/mix_*.wav
+audio/stems/
+audio/vo/*.raw.wav
+render/concat.txt
